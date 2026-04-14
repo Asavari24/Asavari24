@@ -2,7 +2,7 @@
 
 - With hands-on experience in data engineering and analytics, I specialize in building scalable data pipelines, designing cloud-based architectures, and transforming raw data into actionable insights. I'm a graduate student at **Northeastern University** pursuing an M.S. in Software Engineering Systems (graduating April 2026), with prior professional experience at **Bose Corporation** and **NTT Data**. I'm passionate about data quality, pipeline architecture, and the intersection of technical depth with business impact.
 
-- 🚀 I'm currently learning **LLM-powered applications, Multi-Agent Systems, and LangGraph**.
+- 🚀 I have built **LLM-powered applications, Multi-Agent Systems, and LangGraph**.
 
 - 💬 Ask me about **SQL, Python, dbt, Snowflake, Databricks, Azure Data Factory, and Data Pipeline Architecture**.
 
