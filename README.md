@@ -17,7 +17,7 @@
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asavari-shejwal-217b761aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asavari24)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asavari2404.github.io/Portfolio/slides.html)
+[![Portfolio](https://asavari24.github.io/Portfolio/)
 
 ---
 
